@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Resources\**" />
+    <EmbeddedResource Remove="Resources\**" />
+    <None Remove="Resources\**" />
+    <Page Remove="Resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="calc.png" />
+    <None Remove="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="calc.png" />
+    <Resource Include="icon.ico" />
+  </ItemGroup>
+
+</Project>

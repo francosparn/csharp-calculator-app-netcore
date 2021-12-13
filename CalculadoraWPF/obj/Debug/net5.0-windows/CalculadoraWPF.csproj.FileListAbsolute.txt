@@ -1,0 +1,66 @@
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.exe
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.deps.json
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.json
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.dev.json
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.AssemblyReference.cache
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.cache
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.lref
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.g.resources
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfoInputs.cache
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfo.cs
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.CoreCompileInputs.cache
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\VIP CAR\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.genruntimeconfig.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.AssemblyReference.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.exe
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.deps.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.dev.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.lref
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.g.resources
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfoInputs.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfo.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.CoreCompileInputs.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.genruntimeconfig.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.exe
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.deps.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.runtimeconfig.dev.json
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\bin\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.AssemblyReference.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF_MarkupCompile.lref
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.g.resources
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfoInputs.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.AssemblyInfo.cs
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.csproj.CoreCompileInputs.cache
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\ref\CalculadoraWPF.dll
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.pdb
+C:\Users\POCHO\source\repos\CalculadoraWPF\obj\Debug\net5.0-windows\CalculadoraWPF.genruntimeconfig.cache
